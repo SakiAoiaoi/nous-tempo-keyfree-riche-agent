@@ -1,0 +1,22 @@
+npm run shop
+
+
+cat > README.md <<'EOF'
+# Nous Tempo Keyfree Riche Agent
+
+Teacher Keyfree & Riche's Secret Shopping Agent.
+
+リチェがキーフリー先生におつかいを頼みます。  
+キーフリー先生は Nous API で考え、Tempo で少額送金し、本音を秘密の日誌に封印します。
+
+## Role
+
+```text
+Nous API
+= 先生の頭脳だけ借りる
+
+Hermes Agent
+= 先生本人をPCに住ませる
+
+Tempo
+= 先生のお財布
